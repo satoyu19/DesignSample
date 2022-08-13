@@ -17,7 +17,7 @@
 ・MaterialComponentsテーマは制御用のマテリアルデザインを実装しており、テーマの属性を使用しており、カスタマイズ可能です。<br>
 
 マテリアルデザインの実装例
-  ・https://design.google/library/
+  ・https://design.google/library/<br>
   ・https://design.google/library/material-design-awards-2018/
   
 ##### 依存関係の追加
