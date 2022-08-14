@@ -96,9 +96,9 @@ class GdgListFragment : Fragment() {
     }
 
     /**
-     * Request the last location of this device, if known, otherwise start location updates.
+     * このデバイスの最後の位置が既知であればそれを要求し、そうでなければ位置の更新を開始する。
      *
-     * The last location is cached from the last application to request location.
+     * 最後の位置情報は、最後に位置情報を要求したアプリケーションからキャッシュされます。
      */
     private fun requestLastLocationOrStartLocationUpdates() {
         // if we don't have permission ask for it and wait until the user grants it
