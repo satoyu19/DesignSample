@@ -45,3 +45,11 @@
 ### ディメンション
 -----------------
 ・ディメンス(dimens)、またはディメンション(dimension)を使うとアプリ用に再利用可能な寸法を指定できるようになります。マージン、高さ、パッディングなどはdpという単位を使って指定します。フォントサイズに関してはspを使います。
+
+参考箇所：dimens.xml
+
+### カラーリソース
+-----------
+使用ツール：https://material.io/resources/color/#!/?view.left=1&view.right=1&primary.color=666699&secondary.color=a142f4&primary.text.color=ffffff
+簡易使用方法：https://qiita.com/hideaki_sago/items/ccf0b46563f903e61df0
+
