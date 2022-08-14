@@ -50,6 +50,11 @@
 
 ### カラーリソース
 -----------
-使用ツール：https://material.io/resources/color/#!/?view.left=1&view.right=1&primary.color=666699&secondary.color=a142f4&primary.text.color=ffffff
-簡易使用方法：https://qiita.com/hideaki_sago/items/ccf0b46563f903e61df0
+使用ツール：https://material.io/resources/color/#!/?view.left=1&view.right=1&primary.color=666699&secondary.color=a142f4&primary.text.color=ffffff<br>
+簡易使用方法：https://qiita.com/hideaki_sago/items/ccf0b46563f903e61df0<br>
+
+以上から配色を決めたらAndroidファイルでダウンロードをして、プロジェクトで利用する。<br>
+
+・widgetの重なり等で適切な色にしたい場合などは以下を参照↓<br>
+参考URL:https://material.io/develop/android/theming/color
 
