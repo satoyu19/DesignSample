@@ -24,7 +24,9 @@
  
  バージョン参考https://developer.android.com/jetpack/androidx/releases/compose-material?hl=ja
  
- implementation 'com.google.android.material:material:1.2.0'
+ implementation 'com.google.android.material:material:1.2.0'<br>
+ 
+ ・?attrを使ってマテリアルテーマの属性をビューに適用
  
 ### タイポグラフィーテーマ
 ------------------
