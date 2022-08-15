@@ -60,3 +60,11 @@
 ・widgetの重なり等で適切な色にしたい場合などは以下を参照↓<br>
 参考URL:https://material.io/develop/android/theming/color
 
+### ユーザーエクスペリエンス
+----------------
+・RTLサポートを追加する。(コンテンツを右から左に読む)<br>
+  参考URL:https://developer.android.com/training/basics/supporting-devices/languages?hl=ja<br> 
+・アクセシビリティの検査<br>
+・コンテンツの説明文を読むTalkBackに対応させる<br>
+・ナイトモードに対応させる<br>
+
